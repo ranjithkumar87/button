@@ -1,0 +1,70 @@
+.button_1{
+	color:white;
+	background-color:#1669ed;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_2{
+	color:white;
+	background-color:#6c747e;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_3{
+	color:white;
+	background-color:#1a8654;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_4{
+	color:white;
+	background-color:#d73843;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_5{
+	color:white;
+	background-color:#ffc006;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_6{
+	color:white;
+	background-color:#0ecaf0;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_7{
+	color:white;
+	background-color:#80808096;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+
+.button_8{
+	color:white;
+	background-color:#21242b;
+	padding:10px 20px;
+	border:none;
+	border-radius:6px;
+}
+.link{
+	color:blue;
+	cursor:pointer;
+	text-decoration:underline;
+	background-color:transparent;
+	
+}
